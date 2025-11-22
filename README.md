@@ -1,1 +1,1 @@
-# whisper-speech-eda-pipeline
+# Whisper Speech Analysis Pipeline
